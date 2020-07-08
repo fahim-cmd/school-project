@@ -83,3 +83,12 @@ body{
     height: 130px;
     width: 130px;
 }
+.last-part{
+    height: 280px;
+    background-color: #252a35;
+    color: #ffffff;
+}
+.special-height{
+    margin-top: 50px;
+    
+}
