@@ -1,3 +1,56 @@
-h1{
-    color: rgb(28, 209, 149);
+body{
+    font-family:verdana;
+}
+.nav-image{
+    width: 120px;
+    height: auto;
+}
+.nav-item{  
+    font-weight: 700;
+}
+.section{
+    background-color: #e8faf4;
+   
+}
+
+.active{
+    background-color: #07b374;  
+    border-radius: 20px;
+    height: 40px;
+    width: 100px;
+    text-align: center;
+}
+.text-new-color{
+    color: #07b374;
+}
+.btn-new-shape{
+    background-color: #07b374;  
+    border-radius: 20px;
+    height: 40px;
+    width: 145px;
+    text-align: center;
+    border: none;
+}
+.img-fluid{
+    max-width: 100%;
+    height: auto;
+}
+.card{
+    border: none;
+    background-color:#e8faf4 ;
+}
+#sec-book{
+    background-color: white;  
+    box-shadow: 10px 10px 40px lightgray;
+}
+.card img {
+    width:80px;
+    height:110px;       
+}
+.card-title{
+    font-weight: 700;
+}
+.card-text{
+    font-weight: 600;
+    font-size: 14px;
 }
